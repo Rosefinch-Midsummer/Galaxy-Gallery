@@ -1,0 +1,4 @@
+baseURL = 'https://rosefinch-midsummer.github.io/Galaxy-Gallery'
+languageCode = 'en-us'
+title = 'Galaxy Gallery'
+theme = 'gallery'
