@@ -1,4 +1,4 @@
-baseURL = 'https://rosefinch-midsummer.github.io/Galaxy-Gallery'
+baseURL = 'https://rosefinch-midsummer.github.io/gallery'
 languageCode = 'en-us'
 title = 'Galaxy Gallery'
 theme = 'gallery'
