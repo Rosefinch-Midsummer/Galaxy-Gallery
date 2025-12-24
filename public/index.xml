@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Gallery on Galaxy Gallery</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Hugo Gallery on Galaxy Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liberal Arts</title>
+      <link>http://localhost:1313/gallery/liberalarts/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/liberalarts/</guid>
+        <media:content url="http://localhost:1313/gallery/liberalarts/ai-generated-1742975614703_hu_ddcca66827ffec85.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/liberalarts/ai-generated-1742975614703_hu_ddcca66827ffec85.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/gallery/culture/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/culture/</guid>
+        <media:content url="http://localhost:1313/gallery/culture/ai-generated-1742975618712_hu_82f65fe5cd9f73da.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/culture/ai-generated-1742975618712_hu_82f65fe5cd9f73da.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FinTech</title>
+      <link>http://localhost:1313/gallery/fintech/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/fintech/</guid>
+        <media:content url="http://localhost:1313/gallery/fintech/ai-generated-1742975622919_hu_37fa7f84733b995e.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/fintech/ai-generated-1742975622919_hu_37fa7f84733b995e.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/gallery/politics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/politics/</guid>
+        <media:content url="http://localhost:1313/gallery/politics/ai-generated-1742975626998_hu_d63584d72339c1d4.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/politics/ai-generated-1742975626998_hu_d63584d72339c1d4.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Science</title>
+      <link>http://localhost:1313/gallery/science/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/science/</guid>
+        <media:content url="http://localhost:1313/gallery/science/ai-generated-1742975650322_hu_96fbf5a9da975624.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/science/ai-generated-1742975650322_hu_96fbf5a9da975624.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/gallery/technology/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/technology/</guid>
+        <media:content url="http://localhost:1313/gallery/technology/ai-generated-1742975630958_hu_e2121a7762c6819f.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/technology/ai-generated-1742975630958_hu_e2121a7762c6819f.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

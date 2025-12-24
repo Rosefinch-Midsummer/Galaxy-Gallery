@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Galaxy Gallery</title>
+    <link>http://localhost:1313/gallery/categories/</link>
+    <description>Recent content in Categories on Galaxy Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/gallery/categories/culture/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/culture/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>FinTech</title>
+      <link>http://localhost:1313/gallery/categories/fintech/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/fintech/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Liberal Arts</title>
+      <link>http://localhost:1313/gallery/categories/liberal-arts/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/liberal-arts/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/gallery/categories/politics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/politics/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Science</title>
+      <link>http://localhost:1313/gallery/categories/science/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/science/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/gallery/categories/technology/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/technology/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
